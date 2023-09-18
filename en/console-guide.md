@@ -3,7 +3,7 @@
 ## Create Instance
 Creating a bare metal instance is the same as creating a normal instance, except for the notes below when creating a bare metal instance.
 
-For more information, see [](/Compute/Instance/ko/overview)Instance Overview[](/Compute/Instance/ko/overview).
+For more information, see [Instance Overview](/Compute/Instance/en/overview).
 
 ### Notes when creating a bare metal instance
 
@@ -15,6 +15,7 @@ For more information, see [](/Compute/Instance/ko/overview)Instance Overview[](/
 
 > [Caution] In the event of a hardware failure, the user instance may be provided in the same state as when it was created, and in this case, the data may be lost and cannot be recovered.
 NHN Cloud is not responsible for data loss due to service failure. Therefore, separate backup or duplication is recommended.
+
 
 
 
